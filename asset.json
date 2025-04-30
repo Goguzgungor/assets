@@ -1,0 +1,19 @@
+{
+    "assets": [
+      {
+        "percentege": "66,67",
+        "asset_name": "Compound cUSDCv3",
+        "img_url": "https://res.coinpaper.com/coinpaper/compound_usd_coin_cusdc_logo_f58ea32d0e.svg"
+      },
+      {
+        "percentege": "16,67",
+        "asset_name": "Arma USDC",
+        "img_url": "https://www.svgrepo.com/download/428625/usdc-usd-coin.svg"
+      },
+      {
+        "percentege": "16,67",
+        "asset_name": "Fluid fUSDC",
+        "img_url": "https://www.svgrepo.com/download/428625/usdc-usd-coin.svg"
+      }
+    ]
+  }
