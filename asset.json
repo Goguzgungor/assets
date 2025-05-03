@@ -23,6 +23,30 @@
       "title": "Fluid fUSDC",
       "code": "On Chain",
       "percent": "16.67%"
+    },
+       {
+      "image": "https://images.seeklogo.com/logo-png/39/1/compound-usd-coin-cusdc-logo-png_seeklogo-399983.png",
+      "title": "Compound cUSDCv3",
+      "code": "On Chain",
+      "percent": "33,33%"
+    },
+    {
+      "image": "https://aero.drome.eth.limo/brand-kit/AERO/token.png",
+      "title": "Aerodrome yTRYB/USDC",
+      "code": "On Chain",
+      "percent": "33,33%"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1858895798731190274/dWiW2NrH_400x400.jpg",
+      "title": "Arma USDC",
+      "code": "On Chain",
+      "percent": "16.67%"
+    },
+    {
+      "image": "https://fluid.io/icons/tokens/usdc.png",
+      "title": "Fluid fUSDC",
+      "code": "On Chain",
+      "percent": "16.67%"
     }
   ]
 }
