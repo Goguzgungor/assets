@@ -4,31 +4,37 @@
       "image": "https://images.seeklogo.com/logo-png/39/1/compound-usd-coin-cusdc-logo-png_seeklogo-399983.png",
       "title": "Compound cUSDCv3",
       "code": "On Chain",
-      "percent": "31.96%"
+      "percent": "10%"
     },
     {
       "image": "https://images.prismic.io/uphold/Zl8e-5m069VX1csn_AERO%402x.png",
       "title": "Aerodrome yTRYB/USDC",
       "code": "On Chain",
-      "percent": "31.96%"
+      "percent": "30%"
     },
     {
-      "image": "https://pbs.twimg.com/profile_images/1858895798731190274/dWiW2NrH_400x400.jpg",
-      "title": "Arma USDC",
+      "image": "https://cdn.bilira.co/symbol/svg/BMMF.svg",
+      "title": "BMMF Turkey Stablecoin Effects Arbitrage Strategy",
       "code": "On Chain",
-      "percent": "15.98%"
+      "percent": "30%"
     },
     {
-      "image": "https://fluid.io/icons/tokens/usdc.png",
-      "title": "Fluid fUSDC",
+      "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/29471.png",
+      "title": "Ethena sUSDe",
       "code": "On Chain",
-      "percent": "15.98%"
+      "percent": "10%"
     },
     {
-      "image": "https://res.coinpaper.com/coinpaper/usd_coin_usdc_logo_3e68fafa38.png",
-      "title": "USDC",
+      "image": "https://cdn.instadapp.io/icons/tokens/susds.svg",
+      "title": "Sky sUSDS",
       "code": "On Chain",
-      "percent": "4.12%"
+      "percent": "10%"
+    },
+    {
+      "image": "https://framerusercontent.com/images/COIo9INOGqGk5AuV9IlDFe1nwrI.png",
+      "title": "Resolve stUSR",
+      "code": "On Chain",
+      "percent": "10%"
     }
   ]
 }
