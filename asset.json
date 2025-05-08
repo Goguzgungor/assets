@@ -104,5 +104,22 @@
       "code": "On Chain",
       "percent": "25%"
     }
+  ],
+  "news": [
+    {
+      "title": "Behind the Scenes: Where Does Piku’s Yield Come From?",
+      "subtitle": "In a world where cryptocurrency values fluctuate rapidly, stablecoins have become a trusted way to preserve value. But what if you could earn passive income while keeping holding your funds?",
+      "url": "https://pikudao.medium.com/"
+    },
+    {
+      "title": "What is a DAO?",
+      "subtitle": "A DAO, or Decentralized Autonomous Organization, is a digital structure where a company or organization is managed entirely by the community and on the blockchain, without any central authority. Unlike traditional companies, decisions are made not by people, but through smart contracts and community voting.",
+      "url": "https://pikudao.medium.com/"
+    },
+    {
+      "title": "Everything You Need to Know About Yield-Bearing Stablecoins",
+      "subtitle": "In the evolving world of decentralized finance (DeFi), stablecoins have long been recognized as a reliable way to store value and avoid the volatility of cryptocurrencies. But what if your stablecoins could do more than just hold their value?",
+      "url": "https://pikudao.medium.com/"
+    }
   ]
 }
