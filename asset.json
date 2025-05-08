@@ -36,5 +36,73 @@
       "code": "On Chain",
       "percent": "10%"
     }
+  ],
+  "maxassets": [
+    {
+      "image": "https://assets.coingecko.com/coins/images/14318/standard/aUSDC.e260d492.png",
+      "title": "Aave aUSDC",
+      "code": "On Chain",
+      "percent": "20%"
+    },
+    {
+      "image": "https://ondo.finance/images/tokens/usdy.svg",
+      "title": "Ondo USDY",
+      "code": "On Chain",
+      "percent": "20%"
+    },
+    {
+      "image": "https://images.seeklogo.com/logo-png/32/1/tether-usdt-logo-png_seeklogo-323175.png",
+      "title": "USDT",
+      "code": "On Chain",
+      "percent": "100%"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Circle_USDC_Logo.svg/2048px-Circle_USDC_Logo.svg.png",
+      "title": "USDC",
+      "code": "On Chain",
+      "percent": "100%"
+    },
+    {
+      "image": "https://cdn.instadapp.io/icons/tokens/susds.svg",
+      "title": "Sky sUSDS",
+      "code": "On Chain",
+      "percent": "20%"
+    },
+    {
+      "image": "https://images.prismic.io/uphold/Zl8e-5m069VX1csn_AERO%402x.png",
+      "title": "Aerodrome yTRYB/USDC",
+      "code": "On Chain",
+      "percent": "50%"
+    },
+    {
+      "image": "https://cdn.bilira.co/symbol/svg/BMMF.svg",
+      "title": "BMMF Turkey Stablecoin Effects Arbitrage Strategy",
+      "code": "On Chain",
+      "percent": "50%"
+    },
+    {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/29471.png",
+      "title": "Ethena sUSDe",
+      "code": "On Chain",
+      "percent": "25%"
+    },
+    {
+      "image": "https://images.seeklogo.com/logo-png/39/1/compound-usd-coin-cusdc-logo-png_seeklogo-399983.png",
+      "title": "Compound cUSDCv3",
+      "code": "On Chain",
+      "percent": "10%"
+    },
+    {
+      "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/33039.png",
+      "title": "Sky USDS",
+      "code": "On Chain",
+      "percent": "20%"
+    },
+    {
+      "image": "https://framerusercontent.com/images/COIo9INOGqGk5AuV9IlDFe1nwrI.png",
+      "title": "Resolve stUSR",
+      "code": "On Chain",
+      "percent": "25%"
+    }
   ]
 }
